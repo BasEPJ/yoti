@@ -1,2 +1,1 @@
 # yoti
-Español, estudiante aprendiendo
